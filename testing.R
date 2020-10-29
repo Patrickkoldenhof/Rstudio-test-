@@ -1,3 +1,3 @@
-print("Hi Laurens")
+print("Just testing if this works")
 
-print("And now it lives on GitHu")
+print("And now it lives on GitHub")
